@@ -15,22 +15,38 @@ A curated list of Deep Model Compression related  acceleration research papers, 
   - [Distillation](#distillation)
   - [Low Rank Approximation](#low-rank-approximation)
 - [Articles](#articles)
-  - [Howtos](#howtos)
-  - [Assorted](#assorted)
-  - [Reference](#reference)
   - [Blogs](#blogs)
 - [Tools](#tools)
   - [Libraries](#libraries)
+  - [Cross Platform](#cross-platform)
+  - [Model Profiling](#model-profiling)
 ---
 
 
 ## Papers
 ### General
+
 ### Architecture
+
 ### Quantization
+
 ### Binarization
+
 ### Pruning
+
 ### Distillation
+
 ### Low Rank Approximation
 
+
+## Tools
+### Libraries
+- [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization). Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
+- [XNNPACK](https://github.com/google/xnnpack) is a highly optimized library of floating-point neural network inference operators for ARM, WebAssembly, and x86 (SSE2 level) platforms. It's a based on QNNPACK library. However, unlike QNNPACK, XNNPACK focuses entirely on floating-point operators.
+
+
+### Cross Platform
+- [LOADING A TORCHSCRIPT MODEL IN C++](https://pytorch.org/tutorials/advanced/cpp_export.html) (Pytorch:fire:) From an existing Python model to a serialized representation that can be loaded and executed purely from C++, with no dependency on Python.
+- 
+### Model Profiling
 
