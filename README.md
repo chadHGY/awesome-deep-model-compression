@@ -6,7 +6,7 @@ Currently the Repos are additional given tags either [Pytorch/TF]. To quickly fi
 
 
 
-# Contents
+## Contents
 - [Papers](#papers)
   - [General](#general)
   - [Architecture](#architecture)
@@ -101,7 +101,7 @@ Glow is a machine learning compiler and execution engine for hardware accelerato
 
 * [CoreML (Apple)](https://github.com/apple/coremltools) [Pytorch,TF,Keras,SKLearn ...etc] [![Star on GitHub](https://img.shields.io/github/stars/apple/coremltools.svg?style=social)](https://github.com/apple/coremltools)  
 Core ML provides a unified representation for all models. Your app uses Core ML APIs and user data to make predictions, and to train or fine-tune models, all on the user’s device.  
-[Introduction](https://developer.apple.com/documentation/coreml)
+[Introduction](https://developer.apple.com/documentation/coreml)  
 <img width="400" src="https://docs-assets.developer.apple.com/published/65b8e13531/e3663268-5db4-42c9-a7f0-2114920a9f1f.png">  
 
 
