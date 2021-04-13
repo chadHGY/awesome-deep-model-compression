@@ -87,6 +87,5 @@ An open standard format for representing machine learning models.
 <img width="400" src="https://i.imgur.com/lvNIh5g.png"> <br><br>
     * [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) [Pytorch] [![Star on GitHub](https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt.svg?style=social)](https://github.com/NVIDIA-AI-IOT/torch2trt)  
     An easy to use PyTorch to TensorRT converter
-    * [How to Convert a Model from PyTorch to TensorRT and Speed Up Inference](https://learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/) [Pytorch]
-<img width="300" src="https://i.imgur.com/7lxhbzQ.png">
+    * [How to Convert a Model from PyTorch to TensorRT and Speed Up Inference](https://learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/) [Pytorch] <img width="300" src="https://i.imgur.com/7lxhbzQ.png">
 
