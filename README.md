@@ -55,6 +55,9 @@ Pytorch official supported sparsify neural networks and custom pruning technique
 - [Neural Network Intelligence](https://nni.readthedocs.io/en/v1.6/model_compression.html)[Pytorch/TF]
 [![Star on GitHub](https://img.shields.io/github/stars/microsoft/nni.svg?style=social)](https://github.com/microsoft/nni)  
 There are some popular model compression algorithms built-in in NNI. Users could further use NNI’s auto tuning power to find the best compressed model, which is detailed in Auto Model Compression.
+- [Condensa](https://github.com/NVlabs/condensa) [Pytorch]
+[![Star on GitHub](https://img.shields.io/github/stars/NVlabs/condensa.svg?style=social)](https://github.com/NVlabs/condensa)  
+A Programming System for Neural Network Compression. | [paper](https://arxiv.org/pdf/1911.02497.pdf)
 - [Torch-Pruning](https://github.com/VainF/Torch-Pruning)[Pytorch]
 [![Star on GitHub](https://img.shields.io/github/stars/VainF/Torch-Pruning.svg?style=social)](https://github.com/VainF/Torch-Pruning)  
 A pytorch toolkit for structured neural network pruning and layer dependency. 
@@ -77,3 +80,11 @@ From an existing Python model to a serialized representation that can be loaded 
 - [Open Neural Network Exchange (ONNX)](https://github.com/onnx/tutorials)[Pytorch, TF, Keras...etc]
 [![Star on GitHub](https://img.shields.io/github/stars/onnx/onnx.svg?style=social)](https://github.com/onnx/onnx)  
 An open standard format for representing machine learning models. 
+
+
+### Hard-ware Integration
+* [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt)
+![](https://i.imgur.com/lvNIh5g.png)<br><br>
+    * [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) [Pytorch] [![Star on GitHub](https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt.svg?style=social)](https://github.com/NVIDIA-AI-IOT/torch2trt)  
+    An easy to use PyTorch to TensorRT converter
+    * [How to Convert a Model from PyTorch to TensorRT and Speed Up Inference](https://learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/) [Pytorch]![](https://i.imgur.com/7lxhbzQ.png)
