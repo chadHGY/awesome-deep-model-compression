@@ -83,7 +83,7 @@ An open standard format for representing machine learning models.
 
 
 ### Hard-ware Integration
-* [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt) <br>
+* [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt) [Pytorch, TF,Keras ...etc] <br>
 <img width="400" src="https://i.imgur.com/lvNIh5g.png"> <br><br>
     * [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) [Pytorch] [![Star on GitHub](https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt.svg?style=social)](https://github.com/NVIDIA-AI-IOT/torch2trt)  
     An easy to use PyTorch to TensorRT converter
