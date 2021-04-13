@@ -107,4 +107,4 @@ Core ML provides a unified representation for all models. Your app uses Core ML 
 * [Tensorflow Lite (Google)](https://www.tensorflow.org/lite) [TF]  
 An open source deep learning framework for on-device inference.
 <img width="400" src="https://i.imgur.com/kcXIA5A.png">  
-* [Deprecated] [Intel Nervana Neon](https://github.com/NervanaSystems/neon) [![Star on GitHub](https://img.shields.io/github/stars/NervanaSystems/neon.svg?style=social)](https://github.com/NervanaSystems/neon)  
+* [~~Intel Nervana Neon~~](https://github.com/NervanaSystems/neon) [Deprecated] [![Star on GitHub](https://img.shields.io/github/stars/NervanaSystems/neon.svg?style=social)](https://github.com/NervanaSystems/neon)  
