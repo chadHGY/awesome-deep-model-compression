@@ -1,7 +1,7 @@
 # Awesome Deep Model Compression 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![hackmd-github-sync-badge](https://hackmd.io/uDS93NOpStaNuKB2Y1KXLQ/badge)](https://hackmd.io/uDS93NOpStaNuKB2Y1KXLQ)
 
-A curated list of Deep Model Compression related  acceleration research papers, articles, tutorials, libraries, tools and more. Enjoy :)
+A curated list of Deep Model Compression related  acceleration research papers, articles, tutorials, libraries, tools and more. Enjoy :face_with_cowboy_hat: 
 
 
 
