@@ -67,5 +67,6 @@ XNNPACK is a highly optimized library of floating-point neural network inference
 ### Cross Platform
 - [Loading a TorchScript Model in C++](https://pytorch.org/tutorials/advanced/cpp_export.html) [Pytorch x C++]  
 From an existing Python model to a serialized representation that can be loaded and executed purely from C++, with no dependency on Python.
-- [Open Neural Network Exchange (ONNX)](https://github.com/onnx/tutorials)[Pytorch, Tensorflow, Keras...etc] <iframe src="https://ghbtns.com/github-btn.html?user=onnx&repo=onnx&type=star&count=true" frameborder="0" scrolling="0" width="110" height="15" title="GitHub"></iframe>  
+- [Open Neural Network Exchange (ONNX)](https://github.com/onnx/tutorials)[Pytorch, Tensorflow, Keras...etc]
+[![Star on GitHub](https://img.shields.io/github/stars/onnx/onnx.svg?style=social)](https://github.com/onnx/onnx)  
 An open standard format for representing machine learning models. 
