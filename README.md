@@ -20,7 +20,7 @@ Currently the Repos are additional given tags either [Pytorch/TF]. To quickly fi
 - [Tools](#tools)
   - [Libraries](#libraries)
   - [Cross Platform](#cross-platform)
-  - [Model Profiling](#model-profiling)
+  - [Hard-ware Integration](#hard-ware-integration)
 ---
 
 
