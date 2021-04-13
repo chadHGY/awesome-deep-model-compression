@@ -1,7 +1,8 @@
 # Awesome Deep Model Compression 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![hackmd-github-sync-badge](https://hackmd.io/uDS93NOpStaNuKB2Y1KXLQ/badge)](https://hackmd.io/uDS93NOpStaNuKB2Y1KXLQ)
 
-A useful list of Deep Model Compression related research papers, articles, tutorials, libraries, tools and more. Enjoy :smiley:
+A useful list of Deep Model Compression related research papers, articles, tutorials, libraries, tools and more.  
+Currently the Repos are additional given tags either [Pytorch/TF]. To quickly find hands-on Repos in your commonly used framework, please Ctrl+F to get start :smiley:
 
 
 
